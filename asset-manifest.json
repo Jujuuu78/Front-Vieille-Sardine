@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.af9546ee.css",
-    "main.js": "/static/js/main.f70da03c.js",
+    "main.js": "/static/js/main.167f339a.js",
     "static/media/boutique-knokke-heist.png": "/static/media/boutique-knokke-heist.fa562d1c20247d13ee8a.png",
     "static/media/boutique-paris-1.jpg": "/static/media/boutique-paris-1.a6729a1184f76eb5c37a.jpg",
     "static/media/entreprise.png": "/static/media/entreprise.1ab1a086856b4adb5413.png",
@@ -52,10 +52,10 @@
     "index.html": "/index.html",
     "static/media/cb.svg": "/static/media/cb.f8f71c53434cbabba517.svg",
     "main.af9546ee.css.map": "/static/css/main.af9546ee.css.map",
-    "main.f70da03c.js.map": "/static/js/main.f70da03c.js.map"
+    "main.167f339a.js.map": "/static/js/main.167f339a.js.map"
   },
   "entrypoints": [
     "static/css/main.af9546ee.css",
-    "static/js/main.f70da03c.js"
+    "static/js/main.167f339a.js"
   ]
 }
