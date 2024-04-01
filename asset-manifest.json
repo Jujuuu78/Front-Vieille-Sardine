@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.af9546ee.css",
-    "main.js": "/static/js/main.ae5b1c89.js",
+    "main.js": "/static/js/main.f70da03c.js",
     "static/media/boutique-knokke-heist.png": "/static/media/boutique-knokke-heist.fa562d1c20247d13ee8a.png",
     "static/media/boutique-paris-1.jpg": "/static/media/boutique-paris-1.a6729a1184f76eb5c37a.jpg",
     "static/media/entreprise.png": "/static/media/entreprise.1ab1a086856b4adb5413.png",
@@ -38,7 +38,7 @@
     "static/media/boutique-paris-18.jpeg": "/static/media/boutique-paris-18.4d681e88f4e905b87650.jpeg",
     "static/media/sardines.jpg": "/static/media/sardines.243b0c5dad1c820f98a3.jpg",
     "static/media/boutique-villeneuve-la-vieille.png": "/static/media/boutique-villeneuve-la-vieille.68dec1716c4f767f1b99.png",
-    "static/media/logo-vieille-sardine.svg": "/static/media/logo-vieille-sardine.ae1c61b6370b7fcfc71768234fe40faf.svg",
+    "static/media/logo-vieille-sardine.svg": "/static/media/logo-vieille-sardine.fcc58136e46508614fdf9f17a4cd7c4f.svg",
     "static/media/salade-thon-germon.png": "/static/media/salade-thon-germon.77abcc9a44d04356ec6c.png",
     "static/media/emiette-de-sardine-citron-olives-amandes.png": "/static/media/emiette-de-sardine-citron-olives-amandes.98ba241ea4e2223c0e3e.png",
     "static/media/coffret-sardines-et-sardines.png": "/static/media/coffret-sardines-et-sardines.dbd03b1e7ab38d9ddab4.png",
@@ -52,10 +52,10 @@
     "index.html": "/index.html",
     "static/media/cb.svg": "/static/media/cb.f8f71c53434cbabba517.svg",
     "main.af9546ee.css.map": "/static/css/main.af9546ee.css.map",
-    "main.ae5b1c89.js.map": "/static/js/main.ae5b1c89.js.map"
+    "main.f70da03c.js.map": "/static/js/main.f70da03c.js.map"
   },
   "entrypoints": [
     "static/css/main.af9546ee.css",
-    "static/js/main.ae5b1c89.js"
+    "static/js/main.f70da03c.js"
   ]
 }
